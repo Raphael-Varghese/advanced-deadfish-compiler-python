@@ -2,8 +2,6 @@
 
 Deadfish++ is an advanced interpreter for the esoteric programming language **Deadfish**, extended with new instructions, debugging tools, and loop support. This project is designed for educational and experimental use.
 
-> ⚠️ This project is **not affiliated with Certiport or Pearson VUE**. It is an independent tool inspired by esolang principles.
-
 ---
 
 ## 🚀 Features
