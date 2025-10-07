@@ -80,7 +80,7 @@ class Program:
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Usage: python advanced_deadfish.py <filename> [--debug]")
+        print("Usage: python deadfish.py <filename> [--debug]")
         sys.exit(1)
 
     filename = sys.argv[1]
@@ -92,3 +92,4 @@ if __name__ == '__main__':
         Program(code, debug).Run()
     except FileNotFoundError:
         print("Error: File not found.")
+
