@@ -133,3 +133,5 @@ if __name__ == '__main__':
         Program(code, debug, limit).run()
     except FileNotFoundError:
         print("❌ Error: File not found.")
+
+print("\n✅ Program finished.")
