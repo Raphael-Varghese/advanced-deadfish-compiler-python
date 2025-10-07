@@ -26,7 +26,7 @@ Deadfish++ is an advanced interpreter for the esoteric programming language **De
 
 1. Make sure you have **Python 3.6+** installed.
 2. Clone this repository by running:  
-   `git clone https://github.com/yourusername/deadfish-compiler.git && cd deadfish-compiler`
+   `git clone https://github.com/Raphael-Varghese/advanced-deadfish-compiler-pythondeadfish-compiler.git && cd deadfish-compiler`
 3. Run the compiler:  
    `python advanced_deadfish.py <your_program.dfish> [--debug]`
 
